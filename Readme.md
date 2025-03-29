@@ -20,4 +20,6 @@
 | 28th March, 2025 | 219          | [Contains Duplicate 2](ContainsDuplicate2_219.java)                                      | - Arrays, HashSet                |
 |                  | 448          | [Find All Numbers That Disappear](FindAllNumbersThatDisappear_448.java)                  | - Arrays, HashTable              |
 |                  | 628          | [Maximum Product Of Three Number](MaximumProductOfThreeNumber_628.java)                  | - Arrays, Math, Sorting          |
+| 29th March, 2025 | 1768         | [Merge Strings Alternatively](MergeStringsAlternatively_1768.java)                       | - Two Pointer, String            |
+|                  | 1071         | [Greatest Common Divisor Of String](GreatestCommonDivisorOfString_1071.java)             | - Math, String                   |
 ---
