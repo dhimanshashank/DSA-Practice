@@ -22,4 +22,5 @@
 |                  | 628          | [Maximum Product Of Three Number](MaximumProductOfThreeNumber_628.java)                  | - Arrays, Math, Sorting          |
 | 29th March, 2025 | 1768         | [Merge Strings Alternatively](MergeStringsAlternatively_1768.java)                       | - Two Pointer, String            |
 |                  | 1071         | [Greatest Common Divisor Of String](GreatestCommonDivisorOfString_1071.java)             | - Math, String                   |
+| 30th March, 2025 | 2469         | [Convert The Temperature](ConvertTheTemperature_2469.java)                               | - Math                           |
 ---
