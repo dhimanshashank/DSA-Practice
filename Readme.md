@@ -23,4 +23,6 @@
 | 29th March, 2025 | 1768         | [Merge Strings Alternatively](MergeStringsAlternatively_1768.java)                       | - Two Pointer, String            |
 |                  | 1071         | [Greatest Common Divisor Of String](GreatestCommonDivisorOfString_1071.java)             | - Math, String                   |
 | 30th March, 2025 | 2469         | [Convert The Temperature](ConvertTheTemperature_2469.java)                               | - Math                           |
+| 31th March, 2025 | 485          | [Max Consecutive Ones](MaxConsecutiveOnes_485.java)                                      | - Array                          |
+|                  | 73           | [Set Matrix Zeros](SetMatrixZeros_73.java)                                               | - Array, Hash Table, Matrix      |
 ---
