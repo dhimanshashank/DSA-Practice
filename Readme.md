@@ -25,4 +25,5 @@
 | 30th March, 2025 | 2469         | [Convert The Temperature](ConvertTheTemperature_2469.java)                               | - Math                           |
 | 31th March, 2025 | 485          | [Max Consecutive Ones](MaxConsecutiveOnes_485.java)                                      | - Array                          |
 |                  | 73           | [Set Matrix Zeros](SetMatrixZeros_73.java)                                               | - Array, Hash Table, Matrix      |
+| 2nd April, 2025  | 15           | [Three Sum](ThreeSum_15.java)                                                            | - Array, Two Pointers, Sorting   |
 ---
