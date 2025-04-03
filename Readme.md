@@ -26,4 +26,5 @@
 | 31th March, 2025 | 485          | [Max Consecutive Ones](MaxConsecutiveOnes_485.java)                                      | - Array                          |
 |                  | 73           | [Set Matrix Zeros](SetMatrixZeros_73.java)                                               | - Array, Hash Table, Matrix      |
 | 2nd April, 2025  | 15           | [Three Sum](ThreeSum_15.java)                                                            | - Array, Two Pointers, Sorting   |
+| 3rd April, 2025  | 75           | [Sort Colors](SortColors_75.java)                                                        | - Array, Two Pointers, Sorting   |
 ---
